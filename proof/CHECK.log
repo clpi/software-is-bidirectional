@@ -1,0 +1,77 @@
+Lean (version 4.19.0, x86_64-unknown-linux-gnu, commit 6caaee842e94, Release)
+'joincomm' depends on axioms: [propext]
+'joinassoc' depends on axioms: [propext]
+'joinidem' depends on axioms: [propext]
+'joinleft' does not depend on any axioms
+'joinright' does not depend on any axioms
+'joinleast' depends on axioms: [propext]
+'stepclose' does not depend on any axioms
+'derivmono' does not depend on any axioms
+'derivsteps' does not depend on any axioms
+'mapadd' does not depend on any axioms
+'rtone' does not depend on any axioms
+'rttwo' does not depend on any axioms
+'agree' does not depend on any axioms
+'small' depends on axioms: [propext]
+'powbound' depends on axioms: [propext, Quot.sound]
+'vanish' depends on axioms: [propext, Quot.sound]
+'powjoin' depends on axioms: [propext]
+'smalljoin' depends on axioms: [propext, Quot.sound]
+'specvalid' does not depend on any axioms
+'specmono' does not depend on any axioms
+'fminle' depends on axioms: [propext]
+'fminmem' depends on axioms: [propext]
+'fmaxge' depends on axioms: [propext]
+'fmaxmem' depends on axioms: [propext]
+'fminex' depends on axioms: [propext]
+'fmaxex' depends on axioms: [propext]
+'vminle' depends on axioms: [propext]
+'vmaxge' depends on axioms: [propext]
+'vminex' depends on axioms: [propext]
+'vmaxex' depends on axioms: [propext]
+'inbounds' depends on axioms: [propext, Quot.sound]
+'attained' depends on axioms: [propext, Quot.sound]
+'vminappend' depends on axioms: [propext, Quot.sound]
+'vmaxappend' depends on axioms: [propext, Quot.sound]
+'boundsjoin' depends on axioms: [propext, Quot.sound]
+'tighten' depends on axioms: [propext, Quot.sound]
+'certified' depends on axioms: [propext, Quot.sound]
+'gridlength' depends on axioms: [propext]
+'finite' depends on axioms: [propext]
+'optdec' does not depend on any axioms
+'masscons' depends on axioms: [propext, Quot.sound]
+'massmono' depends on axioms: [propext, Quot.sound]
+'massjoin' depends on axioms: [propext, Quot.sound]
+'laststep' does not depend on any axioms
+'telescope' depends on axioms: [propext, Quot.sound]
+'redsound' depends on axioms: [propext, Quot.sound]
+'ordnil' does not depend on any axioms
+'ordone' does not depend on any axioms
+'ordzero' depends on axioms: [propext]
+'thm.reeng' does not depend on any axioms
+'thm.schedsub' depends on axioms: [propext, Quot.sound]
+'thm.venuesub' depends on axioms: [propext, Quot.sound]
+'thm.testsub' depends on axioms: [propext, Quot.sound]
+'Synthesis.sumsplit' depends on axioms: [propext]
+'Synthesis.additive' depends on axioms: [propext]
+'Synthesis.projected' depends on axioms: [propext]
+'Synthesis.split' depends on axioms: [propext]
+'Synthesis.gapfree' depends on axioms: [propext]
+'Synthesis.composed' depends on axioms: [propext, Quot.sound]
+'Synthesis.wholefree' depends on axioms: [propext, Quot.sound]
+'Synthesis.compound' depends on axioms: [propext, Quot.sound]
+'Synthesis.tight' depends on axioms: [propext, Quot.sound]
+'Synthesis.monotone' depends on axioms: [propext, Quot.sound]
+'Synthesis.localizes' depends on axioms: [propext, Quot.sound]
+'Synthesis.finite' depends on axioms: [propext]
+'Synthesis.sound' does not depend on any axioms
+'Synthesis.allsound' depends on axioms: [propext, Quot.sound]
+'Synthesis.elim' depends on axioms: [propext]
+'Synthesis.lattice' depends on axioms: [propext]
+'Synthesis.joined' depends on axioms: [propext, Quot.sound]
+'ctrlone' does not depend on any axioms
+'ctrltwo' does not depend on any axioms
+'ctrlthree' depends on axioms: [propext, Quot.sound]
+'ctrlfour' depends on axioms: [propext, Quot.sound]
+Axiom subset check passed: printed axioms are a subset of {propext, Classical.choice, Quot.sound}
+Axioms printed: Quot.sound propext 
